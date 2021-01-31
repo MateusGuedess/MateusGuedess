@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on [Brastemp](*PRIVATE*)
 
+- 🌱 I’m currently learning **React Animation**
+
+- 💬 Ask me about **React, React Native, Javascript, Typescript and technologies of frontend**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mateusguedess" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mateusguedess" height="30" width="40" /></a>
@@ -27,7 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusguedess&" alt="mateusguedess" /></p>
 
 
+
 <!--
 **MateusGuedess/MateusGuedess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
