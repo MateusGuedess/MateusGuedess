@@ -1,7 +1,3 @@
-### Hi there 👋
-
-https://github-readme-stats.vercel.app/api?username=mateusguedess&show_icons=true&theme=tokyonight
-
 <h1 align="center">Hi 👋, I'm Mateus Guedes</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
