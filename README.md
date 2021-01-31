@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MateusGuedess/MateusGuedess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 https://github-readme-stats.vercel.app/api?username=mateusguedess&show_icons=true&theme=tokyonight
 
 <h1 align="center">Hi 👋, I'm Mateus Guedes</h1>
@@ -32,4 +29,9 @@ https://github-readme-stats.vercel.app/api?username=mateusguedess&show_icons=tru
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusguedess&show_icons=true&theme=tokyonight" alt="mateusguedess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusguedess&" alt="mateusguedess" /></p>
+
+
+<!--
+**MateusGuedess/MateusGuedess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
