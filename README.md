@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/guedesteuteu" target="blank"><img src="https://img.shields.io/twitter/follow/guedesteuteu?logo=twitter&style=for-the-badge" alt="guedesteuteu" /></a> </p>
 
-- 🔭 I’m currently working on [MATCHBOX](*PRIVATE*)
+- 🔭 I’m currently working on [MATCHBOX](https://www.linkedin.com/company/matchbox-brasil/mycompany/)
 
-- 🌱 I’m currently learning **React Animation**
+- 🌱 I’m currently learning **Next 13**
 
 - 💬 Ask me about **React, React Native, Javascript, Typescript and technologies of frontend**
 
