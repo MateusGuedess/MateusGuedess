@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on MATCHBOX<br><br>🌱 I’m currently learning Next 13<br><br>💬 Ask me about React, React Native, Javascript, Typescript and technologies of frontend
 
+old profile: https://github.com/mxteus
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mxteusg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateusguedess/t) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mxteusg) 
@@ -18,8 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mateusguedess&icon=1&color=11)](https://visitcount.itsvg.in)
