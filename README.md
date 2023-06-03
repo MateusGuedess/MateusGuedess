@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MATCHBOX<br><br>🌱 I’m currently learning Next 13<br><br>💬 Ask me about React, React Native, Javascript, Typescript and technologies of frontend
+🌱 I’m currently learning Next 13<br><br>💬 Ask me about React, React Native, Javascript, Typescript and technologies of frontend
 
 portfolio: https://mateusguedes.vercel.app
 
