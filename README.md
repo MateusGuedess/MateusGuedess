@@ -2,6 +2,7 @@
 🌱 I’m currently learning Next 13<br><br>💬 Ask me about React, React Native, Javascript, Typescript and technologies of frontend
 
 portfolio: https://mateusguedes.vercel.app
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 old profile: https://github.com/mxteus
 
