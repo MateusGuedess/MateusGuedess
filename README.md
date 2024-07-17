@@ -6,7 +6,8 @@ package MateusGuedes
 func GetCurrentWorkPosition() map[string]string {
 	return map[string]string{
 		"company":  "UOL EDTECH",
-		"position": "Full Stack Software Engineer",
+		"position": "Software Engineer",
+		"stack": "Ruby on rails & React 🔥"
 	}
 }
 
@@ -30,10 +31,11 @@ func GetFrontEndDailyKnowledge() []string {
 func GetBackEndDailyKnowledge() []string {
 	return []string {
 		"GoLang",
+		"Ruby",
 		"Docker",
-		"Postgres",
-		"MongoDB",
-		"Ruby"
+		"SQL & NoSQL",
+		"Message Brokers",
+		"Caching"
 	}
 }
 
