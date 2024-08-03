@@ -49,7 +49,10 @@ func GetFutureGoal() string {
 ### 💻 Tech Stack:
 
 ## In love with:
-![](https://assets.exercism.org/tracks/go.svg =50x50)
+<img src="https://assets.exercism.org/tracks/go.svg" width="50" height="50">
+<img src="https://assets.exercism.org/tracks/ruby.svg" width="50" height="50">
+<img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50">
+<img src="https://assets.exercism.org/tracks/typescript.svg" width="50" height="50">
 
 
 ## Talk with about:
