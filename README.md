@@ -49,13 +49,13 @@ func GetFutureGoal() string {
 ### 💻 Tech Stack:
 
 ## In love with:
-<img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50">
-<img src="https://www.svgrepo.com/show/7866/html.svg" width="50" height="50">
-<img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50">
-<img src="https://assets.exercism.org/tracks/go.svg" width="50" height="50">
-<img src="https://assets.exercism.org/tracks/ruby.svg" width="50" height="50">
-<img src="https://assets.exercism.org/tracks/typescript.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="50" height="50">
+<img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50" style="float: right;">
+<img src="https://www.svgrepo.com/show/7866/html.svg" width="50" height="50" style="float: right;">
+<img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50" style="float: right;">
+<img src="https://assets.exercism.org/tracks/go.svg" width="50" height="50" style="float: right;">
+<img src="https://assets.exercism.org/tracks/ruby.svg" width="50" height="50" style="float: right;">
+<img src="https://assets.exercism.org/tracks/typescript.svg" width="50" height="50" style="float: right;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="50" height="50" style="float: right;">
 
 
 ## Talk with about:
