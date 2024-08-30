@@ -40,7 +40,7 @@ func GetBackEndDailyKnowledge() []string {
 }
 
 func GetFutureGoal() string {
-	return "Contribute to open source, work with international projects and help a lot with knowledge"
+	return "Contribute to open source, work with international projects and help a lot with my knowledge"
 }
 ```
 ### 🌐 Socials:
