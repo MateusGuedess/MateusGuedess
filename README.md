@@ -57,7 +57,7 @@ func GetFutureGoal() string {
 <img src="https://www.svgrepo.com/show/7866/html.svg" width="50" height="50">
 </p>
 
-![gopher dancing](./dancing-gopher.gif)
+![gopher dancing](./Dancing Gopher.gif)
 
 
 ### 📊 GitHub Stats:
