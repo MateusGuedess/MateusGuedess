@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8224e37-8a4c-49e9-8676-877472e524c3)###  Hi there, I'm Mateus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+###  Hi there, I'm Mateus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 ```go
 package MateusGuedes
