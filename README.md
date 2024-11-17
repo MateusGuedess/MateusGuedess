@@ -1,4 +1,4 @@
-###  Hi there, I'm Mateus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+![image](https://github.com/user-attachments/assets/a8224e37-8a4c-49e9-8676-877472e524c3)###  Hi there, I'm Mateus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 ```go
 package MateusGuedes
@@ -56,6 +56,9 @@ func GetFutureGoal() string {
 <img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/7866/html.svg" width="50" height="50">
 </p>
+
+![gopher dancing](./dancing-gopher.gif)
+
 
 ### 📊 GitHub Stats:
 
